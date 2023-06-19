@@ -13,7 +13,7 @@ This project provides a simple application written in Go that manages email temp
 
 - AWS account with access to SES.
 - Appropriate AWS credentials.
-- Go 1.15 or later.
+- Go 1.19.
 - Dependencies: [AWS SDK for Go](https://github.com/aws/aws-sdk-go), [Watcher](https://github.com/radovskyb/watcher).
 - Sentry for error logging (should be simple to disable).
 
