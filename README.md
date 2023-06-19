@@ -51,6 +51,10 @@ Usage of ./ses_emails:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Acknowledgements
+
+More than half of the code and this README was written by GPT-4.
+
 ## License
 
 [MIT](LICENSE)
