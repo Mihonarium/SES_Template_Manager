@@ -1,0 +1,20 @@
+{
+  "aws_region": "your-regio-n",
+  "aws_key": "YOUR AWS KEY",
+  "aws_secret": "YOUR AWS SECRET",
+  "templates": [
+    {
+      "template_name": "test_template1",
+      "subject_part": "Test Subject 1",
+      "text_part": "test text1",
+      "html_part_file_path": "/home/ubuntu/emails/test1.tmpl.html"
+    },
+    {
+      "template_name": "test_template2",
+      "subject_part": "Test Subject 2",
+      "text_part": "test text2",
+      "html_part_file_path": "/home/ubuntu/emails/test2.tmpl.html"
+    }
+  ],
+  "sentry_dsn": "https://example@sentry.io/example"
+}
