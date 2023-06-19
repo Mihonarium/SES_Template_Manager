@@ -1,4 +1,4 @@
-module cool_things/ses_emails
+module Mihonarium/SES_Template_Manager
 
 go 1.19
 
